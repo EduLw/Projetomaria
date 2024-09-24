@@ -1,0 +1,27 @@
+É verdade que 7 + 3 × 2 = 13?;
+Verdade;
+Falso;
+Verdade
+|
+É verdade que 15 − (6 + 4) = 5?
+Verdade;
+Falso;
+Verdade
+|
+É verdade que 8 ÷ 2 + 3 × 2 = 10?
+Verdade;
+Falso;
+Verdade
+|
+É verdade que a solucao de de 5x − 2 = 3x + 6 é x = 4?
+Verdade;
+Falso;
+Verdade
+|
+É verdade que 12 − 3  = 9?
+Verdade;
+Falso;
+Verdade
+!
+
+
